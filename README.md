@@ -3,7 +3,7 @@
           
   <h1 align="center">
     Oi, Tudo bem? Me chamo 
-    <a href="https://www.linkedin.com/in/andr%C3%A9-joarez-nascimento-cardoso-48921022a/">André J. Nascimento</a>
+    <a href="[https://www.linkedin.com/in/andr%C3%A9-joarez-nascimento-cardoso-48921022a/](https://www.linkedin.com/in/andre-ncardoso/)">André J. Nascimento</a>
   </h1>
   
   <h2>🧔‍♂️Meu perfil </h2>
